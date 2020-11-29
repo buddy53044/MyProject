@@ -1,0 +1,9 @@
+﻿D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(18): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(21): warning C4047: '函式': 'const int *' 與 'int [4][13]' 間接取值的層級不同
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(21): warning C4024: 'deal': 型式和實質參數 1 不同的類型
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(45): warning C4028: 型式參數 1 與來自宣告的不同
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(45): warning C4028: 型式參數 2 與來自宣告的不同
+d:\github data\myproject\109360213_謝仁杰11.26\p25\source\main.c(58): warning C4477: 'printf' : 格式字串 '%5s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'const int *'
+  HW.vcxproj -> D:\github data\MyProject\109360213_謝仁杰11.26\P25\HW\HW\..\..\temp\debug\HW.exe
