@@ -1,0 +1,5 @@
+﻿  Main.c
+c:\users\user\desktop\ch7_lab2\source\main.c(18): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\users\user\desktop\ch7_lab2\source\main.c(22): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\users\user\desktop\ch7_lab2\source\main.c(43): warning C4129: 'c': 無法辨識的字元逸出序列
+  Lab2.vcxproj -> C:\Users\USER\Desktop\Ch7_Lab2\Lab2\Debug\Lab2.exe
